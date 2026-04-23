@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
-// Function declarations
 void findLength();
 void copyString();
 void concatenateString();
 void compareString();
-void reverseString(); // updated logic
+void reverseString(); 
 
 int main() {
     int choice;
